@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+body {
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  margin: 0;
+  background-image: url('');
+}
+
+
+@media screen and (min-width: 768px) {
+  #root {
+    width: 768px;
+    margin: 0 auto;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
